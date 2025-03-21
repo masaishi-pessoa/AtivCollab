@@ -1,0 +1,19 @@
+p {
+    color: red;
+    text-shadow: 6cm;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: bisque;
+    text-align: center;
+}
+
+h2 {
+    color: aqua;
+    text-align: right;
+}
